@@ -9,7 +9,7 @@ layer {
   }
   data_param {
     # path to GCN preprocessed and ZCA whitened cifar-10 train data
-    source: "<train_database_path>"
+    source: "cifar-10_train_lmdb"
     batch_size: 256
     backend: LMDB
   }
@@ -24,7 +24,7 @@ layer {
   }
   data_param {
     # path to GCN preprocessed and ZCA whitened cifar-10 test data
-    source: "<train_database_path>"
+    source: "cifar-10_test_lmdb"
     batch_size: 200
     backend: LMDB
   }
