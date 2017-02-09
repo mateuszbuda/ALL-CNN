@@ -16,7 +16,7 @@ caffe train -solver ALL_CNN_C_solver.prototxt -gpu all |& tee ALL_CNN_C.log
 ```
 
 I have found this network training highly unstable.
-You may need to run the training more a few times to achieve sub 10% error rate.
+You may need to run the training a few times to achieve sub 10% error rate.
 
 ## Testing
 
