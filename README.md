@@ -15,8 +15,8 @@ Then transformed to LMDB database with random, unique keys ([Creating an LMDB da
 
 Here are the links to download preprocessed and ready for training/testing CIFAR-10 LMDB databases:
 
-- [cifar-10\_train\_lmdb.zip](https://drive.google.com/open?id=0B0a9KYriPdN4R29yVW50U2Nzdms) (SHA-1 checksum: e72b00259625f77fd6c4b952568dd0904b3fa75c)
-- [cifar-10\_test\_lmdb.zip](https://drive.google.com/open?id=0B0a9KYriPdN4eUxScnQwZWxRQjA) (SHA-1 checksum: ebe7e7ccbf13d704c4ce4147bcadab9dd3511972)
+- [cifar-10\_train\_lmdb.zip](https://drive.google.com/open?id=0B0a9KYriPdN4eUxScnQwZWxRQjA) (SHA-1 checksum: e72b00259625f77fd6c4b952568dd0904b3fa75c)
+- [cifar-10\_test\_lmdb.zip](https://drive.google.com/open?id=0B0a9KYriPdN4R29yVW50U2Nzdms) (SHA-1 checksum: ebe7e7ccbf13d704c4ce4147bcadab9dd3511972)
 
 ## Training
 
